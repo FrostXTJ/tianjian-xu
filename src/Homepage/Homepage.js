@@ -22,6 +22,8 @@ const HomePage = () => {
         Created by Tianjian Xu. Designed with{" "}
         <Anchor href="https://reactjs.org/">React</Anchor> and{" "}
         <Anchor href="https://ant.design/">Ant Design</Anchor>.
+        <br />
+        Art assests came from <Anchor href="https://www.flaticon.com/">Flaticon</Anchor>
       </Footer>
     </Layout>
   );
