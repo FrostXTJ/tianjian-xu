@@ -1,0 +1,28 @@
+.skill-icon-wrapper {
+  width: 88px;
+  height: 140px;
+  text-align: center;
+}
+
+.skill-icon-image-wrapper {
+  height: 88px;
+  width: 88px;
+  background-color: #f0f0f0;
+  border-radius: 1em;
+}
+
+.skill-icon-image {
+  height: 88px;
+  width: 88px;
+  padding: 12px;
+  border-radius: 1em;
+}
+
+.skill-icon-caption {
+  padding: 8px;
+  font-size: medium;
+}
+
+.ant-tooltip-inner {
+  font-size: medium;
+}

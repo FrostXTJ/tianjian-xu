@@ -1,0 +1,40 @@
+.homepage-content {
+  align-self: center;
+  margin: 2% 2% 0 2%;
+  padding: 2% 5%;
+  background-color: #ffffff;
+}
+
+.homepage-footer {
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+.experience-wrapper {
+  padding-top: 12px;
+}
+
+.skill-set-wrapper {
+  max-width: 1200px;
+}
+
+.portfolio-wrapper {
+  padding-top: 32px;
+  max-width: 1200px;
+}
+
+@media only screen and (max-device-width: 768px) {
+  .homepage-content {
+    margin: 0;
+    padding: 5%;
+  }
+
+  .about-me-wrapper, .experience-wrapper, .skill-set-wrapper, .portfolio-wrapper {
+    padding: 5%;
+  }
+
+  .skill-set-wrapper {
+    min-width: 300px;
+    width: 90vw;
+  }
+}

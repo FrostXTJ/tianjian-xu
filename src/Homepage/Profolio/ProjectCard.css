@@ -1,0 +1,32 @@
+.ant-card-bordered {
+  height: 400px;
+}
+
+.ant-card-head-title {
+  font-size: large;
+  font-weight: bold;
+  padding-bottom: 0px;
+}
+
+.ant-card-body {
+  padding: 8px 24px;
+}
+
+.project-card-description {
+  font-size: medium;
+  max-width: 280px;
+  margin-bottom: 0;
+  min-height: 48px;;
+  width: 50vw;
+}
+
+.project-card-tags-wrapper {
+  max-width: 280px;
+}
+
+.cover-image {
+  max-width: 380px;
+  width: 80vw;
+  height: 190px;
+  object-fit: cover;
+}

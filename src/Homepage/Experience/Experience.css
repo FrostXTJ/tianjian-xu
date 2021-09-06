@@ -1,0 +1,24 @@
+.experience-wrapper {
+  display: flex;
+  flex-direction: row;
+}
+
+.education-experience-wrapper {
+  padding-left: 8%;
+}
+
+.experience-description {
+font-size: medium;
+  color: #8c8c8c;
+}
+
+@media only screen and (max-device-width: 768px) {
+  .experience-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .education-experience-wrapper {
+    padding: 0;
+  }
+}
