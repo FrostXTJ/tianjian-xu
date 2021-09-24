@@ -10,7 +10,6 @@ const ProEvento = {
     projectTags.mobile,
     projectTags.reactnative,
     projectTags.spring,
-    projectTags.twilio,
   ],
   detail: <ProEventoDetail />,
 };

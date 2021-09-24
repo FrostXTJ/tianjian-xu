@@ -8,7 +8,7 @@ const ReCOVER = {
   cover: cover,
   tags: [
     projectTags.ml,
-    projectTags.datacleaning,
+    projectTags.datamining,
     projectTags.web,
     projectTags.django,
     projectTags.react,

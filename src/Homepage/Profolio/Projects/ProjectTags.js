@@ -31,17 +31,13 @@ const projectTags = {
     content: "React Native",
     color: "blue"
   },
-  datacleaning: {
-    content: "Data Cleaning",
+  datamining: {
+    content: "Data Mining",
     color: "cyan"
   },
   django: {
     content: "Django",
     color: "green"
-  },
-  twilio: {
-    content: "Twilio API",
-    color: "red"
   },
   nlp: {
     content: "NLP",
@@ -57,10 +53,6 @@ const projectTags = {
   },
   ai: {
     content: "AI",
-    color: "red"
-  },
-  java: {
-    content: "Java",
     color: "red"
   },
 }

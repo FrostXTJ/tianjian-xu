@@ -4,8 +4,9 @@ import ProEvento from "./ProEvento/ProEvento";
 import FakeNewsClassifier from "./FakeNewsClassifier/FakeNewsClassifier";
 import ToonTank from "./ToonTank/ToonTank";
 import ParkourEdge from "./ParkourEdge/ParkourEdge";
-import PacMan from "./PacMan/PacMan";
+import EShoppingCart from "./EShoppingCart/EShoppingCart";
 import WiseUp from "./WiseUp/WiseUp";
+import PacMan from "./PacMan/PacMan";
 import MoodToDo from "./MoodToDo/MoodToDo";
 
 const projects = [
@@ -13,11 +14,12 @@ const projects = [
     ReCOVER,
     ProEvento,
     FakeNewsClassifier,
+    EShoppingCart,
+    MoodToDo,
     ToonTank,
     ParkourEdge,
     PacMan,
     WiseUp,
-    MoodToDo
 ];
 
 export default projects;

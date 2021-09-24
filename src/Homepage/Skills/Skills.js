@@ -6,8 +6,9 @@ import img_sql from "./images/sql.png";
 import img_lua from "./images/lua.png";
 import img_unreal from "./images/unreal.png";
 import img_spring from "./images/spring.png";
-import img_django from "./images/django.png";
 import img_react from "./images/react.png";
+import img_nodejs from "./images/nodejs.png";
+import img_django from "./images/django.png";
 import img_opengl from "./images/opengl.png";
 import img_pytorch from "./images/pytorch.png";
 import img_sklearn from "./images/sklearn.png";
@@ -15,8 +16,10 @@ import img_mongodb from "./images/mongodb.png";
 import img_junit from "./images/junit.png";
 import img_hibernate from "./images/hibernate.png";
 import img_aws from "./images/aws.png";
+import img_docker from "./images/docker.png";
 import img_git from "./images/git.png";
 import img_svn from "./images/svn.png";
+import img_cicd from "./images/cicd.png"
 import img_vim from "./images/vim.png";
 import img_ai from "./images/ai.png";
 import img_ml from "./images/ml.png";
@@ -24,8 +27,6 @@ import img_graphics from "./images/graphics.png";
 import img_networks from "./images/networks.png";
 import img_china from "./images/china.png";
 import img_usa from "./images/usa.png";
-import img_japan from "./images/japan.png";
-import img_french from "./images/france.png";
 import img_guitar from "./images/guitar.png";
 import img_breaking from "./images/breaking.png";
 
@@ -73,15 +74,20 @@ export const skills = [
     image: img_spring
   },
   {
-    name: "Django",
-    types: ["web"],
-    image: img_django
-  },
-  {
     name: "React",
     types: ["web"],
     image: img_react,
     comment: "This webpage is built by React."
+  },
+  {
+    name: "Node.js",
+    types: ["web"],
+    image: img_nodejs,
+  },
+  {
+    name: "Django",
+    types: ["web"],
+    image: img_django
   },
   {
     name: "OpenGL",
@@ -119,6 +125,11 @@ export const skills = [
     image: img_aws
   },
   {
+    name: "Docker",
+    types: ["web"],
+    image: img_docker
+  },
+  {
     name: "Git",
     types: ["game", "web", "data"],
     image: img_git 
@@ -127,6 +138,11 @@ export const skills = [
     name: "SVN",
     types: ["game", "web", "data"],
     image: img_svn
+  },
+  {
+    name: "CI/CD",
+    types: ["web"],
+    image: img_cicd
   },
   {
     name: "Vim",
@@ -165,18 +181,6 @@ export const skills = [
     types: ["life"],
     image: img_usa,
     comment: "Proficient"
-  },
-  {
-    name: "Japanese",
-    types: ["life"],
-    image: img_japan,
-    comment: "Hobbyist"
-  },
-  {
-    name: "French",
-    types: ["life"],
-    image: img_french,
-    comment: "Je parle un peu de français. But already rusted :("
   },
   {
     name: "Guitar",

@@ -6,7 +6,7 @@ const MoodToDo = {
   name: "MoodToDo",
   cover: cover,
   description: "An entertainment recommendation web app.",
-  tags: [projectTags.web, projectTags.java],
+  tags: [projectTags.web],
   detail: <MoodToDoDetail />,
 };
 
