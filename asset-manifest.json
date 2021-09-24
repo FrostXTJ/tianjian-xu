@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.c22f6042.chunk.css",
-    "main.js": "/static/js/main.6a0018b5.chunk.js",
-    "main.js.map": "/static/js/main.6a0018b5.chunk.js.map",
+    "main.js": "/static/js/main.302de418.chunk.js",
+    "main.js.map": "/static/js/main.302de418.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6d591be6.js",
     "runtime-main.js.map": "/static/js/runtime-main.6d591be6.js.map",
     "static/css/2.46925b27.chunk.css": "/static/css/2.46925b27.chunk.css",
@@ -19,12 +19,14 @@
     "static/media/aws.07044dfe.png": "/static/media/aws.07044dfe.png",
     "static/media/breaking.64ebd322.png": "/static/media/breaking.64ebd322.png",
     "static/media/china.72547ae4.png": "/static/media/china.72547ae4.png",
+    "static/media/cicd.5403b8db.png": "/static/media/cicd.5403b8db.png",
     "static/media/cover.1640eb21.png": "/static/media/cover.1640eb21.png",
     "static/media/cover.2de145c2.png": "/static/media/cover.2de145c2.png",
     "static/media/cover.36baa926.png": "/static/media/cover.36baa926.png",
     "static/media/cover.42732a38.png": "/static/media/cover.42732a38.png",
     "static/media/cover.719db1ad.png": "/static/media/cover.719db1ad.png",
     "static/media/cover.d65f2716.png": "/static/media/cover.d65f2716.png",
+    "static/media/cover.dfc58348.png": "/static/media/cover.dfc58348.png",
     "static/media/cover.f7c3e0f0.png": "/static/media/cover.f7c3e0f0.png",
     "static/media/cover.faea9663.png": "/static/media/cover.faea9663.png",
     "static/media/cover.fff5971b.png": "/static/media/cover.fff5971b.png",
@@ -37,12 +39,15 @@
     "static/media/lua.e7a9c3d2.png": "/static/media/lua.e7a9c3d2.png",
     "static/media/ml.2350fb15.png": "/static/media/ml.2350fb15.png",
     "static/media/networks.45e9eb73.png": "/static/media/networks.45e9eb73.png",
+    "static/media/nodejs.30ca82b0.png": "/static/media/nodejs.30ca82b0.png",
     "static/media/opengl.9224c44d.png": "/static/media/opengl.9224c44d.png",
+    "static/media/orderingpage.8096e775.png": "/static/media/orderingpage.8096e775.png",
     "static/media/pacmanfootage.bcbc7b46.gif": "/static/media/pacmanfootage.bcbc7b46.gif",
     "static/media/profile-image.0d6cdbb7.jpg": "/static/media/profile-image.0d6cdbb7.jpg",
     "static/media/python.b9f92682.png": "/static/media/python.b9f92682.png",
     "static/media/pytorch.2aaa7627.png": "/static/media/pytorch.2aaa7627.png",
     "static/media/react.c2861c4d.png": "/static/media/react.c2861c4d.png",
+    "static/media/shoppingcart.75a2985e.png": "/static/media/shoppingcart.75a2985e.png",
     "static/media/sklearn.d2bdf233.png": "/static/media/sklearn.d2bdf233.png",
     "static/media/spring.074270f2.png": "/static/media/spring.074270f2.png",
     "static/media/svn.f3a0c7d3.png": "/static/media/svn.f3a0c7d3.png",
@@ -60,6 +65,6 @@
     "static/css/2.46925b27.chunk.css",
     "static/js/2.c2d48174.chunk.js",
     "static/css/main.c22f6042.chunk.css",
-    "static/js/main.6a0018b5.chunk.js"
+    "static/js/main.302de418.chunk.js"
   ]
 }
