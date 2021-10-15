@@ -13,6 +13,7 @@ import img_opengl from "./images/opengl.png";
 import img_pytorch from "./images/pytorch.png";
 import img_sklearn from "./images/sklearn.png";
 import img_mongodb from "./images/mongodb.png";
+import img_sap from "./images/sap.png";
 import img_junit from "./images/junit.png";
 import img_hibernate from "./images/hibernate.png";
 import img_aws from "./images/aws.png";
@@ -108,6 +109,11 @@ export const skills = [
     name: "MongoDB",
     types: ["web", "data"],
     image: img_mongodb
+  },
+  {
+    name: "SAP BW",
+    types: ["data"],
+    image: img_sap
   },
   {
     name: "JUnit",

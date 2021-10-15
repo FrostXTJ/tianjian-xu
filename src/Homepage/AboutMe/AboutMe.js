@@ -48,8 +48,8 @@ const AboutMe = () => (
         >
           Applied Analytics
         </a>
-        . My fields of interest include video game development, data engineering,
-        and web technology.
+        . My fields of interest include data engineering, web technology, 
+        and video game development.
       </p>
     </div>
   </div>

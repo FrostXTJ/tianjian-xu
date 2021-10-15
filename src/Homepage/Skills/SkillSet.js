@@ -44,11 +44,11 @@ const SkillSet = () => {
         <TabPane tab="Web Technology" key="web">
           <Space wrap>{iconMap["web"]}</Space>
         </TabPane>
-        <TabPane tab="Game Dev" key="game">
-          <Space wrap>{iconMap["game"]}</Space>
-        </TabPane>
         <TabPane tab="Data Engineer" key="data">
           <Space wrap>{iconMap["data"]}</Space>
+        </TabPane>
+        <TabPane tab="Game Dev" key="game">
+          <Space wrap>{iconMap["game"]}</Space>
         </TabPane>
         <TabPane tab="Life" key="life">
           <Space wrap>{iconMap["life"]}</Space>
