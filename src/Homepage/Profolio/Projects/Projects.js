@@ -7,6 +7,7 @@ import ParkourEdge from "./ParkourEdge/ParkourEdge";
 import EShoppingCart from "./EShoppingCart/EShoppingCart";
 import WiseUp from "./WiseUp/WiseUp";
 import PacMan from "./PacMan/PacMan";
+import HeightField from "./HeightField/HeightField";
 import MoodToDo from "./MoodToDo/MoodToDo";
 
 const projects = [
@@ -17,8 +18,9 @@ const projects = [
     EShoppingCart,
     MoodToDo,
     ToonTank,
-    ParkourEdge,
     PacMan,
+    HeightField,
+    ParkourEdge,
     WiseUp,
 ];
 

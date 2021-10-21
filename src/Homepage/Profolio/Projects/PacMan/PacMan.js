@@ -6,7 +6,7 @@ const PacMan = {
   name: "Pac-Man Remake",
   cover: cover,
   description: "Remake of the classical Pac-Man game.",
-  tags: [projectTags.game, projectTags.ai, projectTags.sdl],
+  tags: [projectTags.game, projectTags.ai],
   detail: <PacManDetail />,
 };
 

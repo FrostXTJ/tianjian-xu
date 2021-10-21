@@ -6,7 +6,7 @@ const ParkourEdge = {
   name: "Parkour's Edge",
   cover: cover,
   description: "A 3D platformer parkour game.",
-  tags: [projectTags.game, projectTags.sdl],
+  tags: [projectTags.game],
   detail: <ParkourEdgeDetail />,
 };
 

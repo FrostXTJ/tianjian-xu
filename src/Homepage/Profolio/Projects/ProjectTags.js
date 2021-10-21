@@ -47,14 +47,14 @@ const projectTags = {
     content: "PyTorch",
     color: "volcano"
   },
-  sdl: {
-    content: "SDL",
-    color: "blue"
-  },
   ai: {
     content: "AI",
     color: "red"
   },
+  graphics: {
+    content: "Graphics",
+    color: "default"
+  }
 }
 
 export default projectTags;
