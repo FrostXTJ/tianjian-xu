@@ -8,13 +8,19 @@ const Experience = () => (
     <div className="working-experience-wrapper">
       <h2>Experience</h2>
       <Timeline>
+        <Timeline.Item color="red">
+          Upcoming SDE Intern @ Apple
+          <p className="experience-description">
+            Staring on 2022 Summer.
+          </p>
+        </Timeline.Item>
         <Timeline.Item>
           SDE Intern @ Tenecnt
           <p className="experience-description">
             Developed SDK for{" "}
             <Anchor href="https://www.pubgmobile.com/en-US/home.shtml">
               <i>PUBG Mobile</i>
-            </Anchor>
+            </Anchor>.
           </p>
         </Timeline.Item>
         <Timeline.Item>
